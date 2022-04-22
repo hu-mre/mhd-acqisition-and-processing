@@ -9,7 +9,7 @@ This code was developed in the following environment:
 
 Intel Core i7, 3.2 GHz, memory 16 GB; 
 Windows 10 Pro;
-National Instruments (NI) LabVIEW Professional Development 2020.
+National Instruments (NI) LabVIEW Professional Development 2020;
 NI PXIe-6386 (PXI Multifunction I/O module)
 
 This code works with NI’s data acquisition board. We used PXIe-6386 (8 analog inputs, sampling rate 14M sampling/s per channel, and 16 bits). The initial setting of the data acquisition uses analog input port ai0 of PXIe-6386 for the output voltage signal of the operational amplifier in the EPR receiver system.
