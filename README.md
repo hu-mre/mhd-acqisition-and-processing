@@ -1,6 +1,6 @@
 # mhd-acqisition-and-processing
 
-LabVIEW code of the data acquisition and signal processing in the multiple harmonic detection (MHD) method for continuous-wave electron paramagnetic resonance (CW-EPR) spectroscopy
+LabVIEW code of the data acquisition and signal processing in the multiple harmonic detection (MHD) method for continuous-wave electron paramagnetic resonance (CW-EPR) spectroscopy and imaging
 
 We used this LabVIEW code for the study published in journal X (to be announced).
 DOI: to be announced
